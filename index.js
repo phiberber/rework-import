@@ -4,7 +4,7 @@ var path = require('path');
 var css = require('css');
 var globby = require('globby');
 var parseImport = require('parse-import');
-var urlRegex = require('url-regex');
+var urlRegex = require('url-regex-safe');
 
 /**
  * Get options
