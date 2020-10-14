@@ -1,3 +1,7 @@
+# (next)
+
+* (breaking) Replace `url-regex` with `url-regex-safe`. Requires node >= 10.12.0.
+
 # 2.0.0 / 2014-11-27
 
 * Use `url-regex` to check for @imports containing URLs
