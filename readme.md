@@ -1,5 +1,9 @@
 # rework-import-safe [![Build Status](http://img.shields.io/travis/reworkcss/rework-import.svg?style=flat)](https://travis-ci.org/reworkcss/rework-import)
 
+## Information
+
+This repository is a fork from https://github.com/DullReferenceException/rework-import and all the credits goes to him. I'm just here to publish it to npm so we can have a more stable dependency. I'm not planning of updating this project any further.
+
 > Import stylesheets using `@import` and an optional media query
 
 
