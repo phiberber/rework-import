@@ -1,4 +1,4 @@
-# rework-import [![Build Status](http://img.shields.io/travis/reworkcss/rework-import.svg?style=flat)](https://travis-ci.org/reworkcss/rework-import)
+# rework-import-safe [![Build Status](http://img.shields.io/travis/reworkcss/rework-import.svg?style=flat)](https://travis-ci.org/reworkcss/rework-import)
 
 > Import stylesheets using `@import` and an optional media query
 
