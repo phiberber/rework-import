@@ -1,10 +1,11 @@
 {
-  "name": "rework-import",
-  "version": "2.1.0",
-  "description": "A rework plugin to read and inline CSS files via @import",
+  "name": "rework-import-safe",
+  "version": "2.1.1",
+  "description": "A rework plugin to read and inline CSS files via @import using the safe version of url-regex.",
   "license": "MIT",
-  "repository": "reworkcss/rework-import",
+  "repository": "phiberber/rework-import-safe",
   "authors": [
+    "Jacob Page <jpage@godaddy.com>",
     "Jason Campbell <jason@js.la>",
     "Kevin Mårtensson <kevinmartensson@gmail.com>",
     "Maxime Thirouin <m@moox.io>"

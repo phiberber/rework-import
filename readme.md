@@ -2,15 +2,14 @@
 
 ## Information
 
-This repository is a fork from https://github.com/DullReferenceException/rework-import and all the credits goes to him. I'm just here to publish it to npm so we can have a more stable dependency. I'm not planning of updating this project any further.
+This package is based on https://github.com/DullReferenceException/rework-import and all the credits goes to him. I'm just here to publish it so we can have a more stable dependency.
 
 > Import stylesheets using `@import` and an optional media query
-
 
 ## Install
 
 ```bash
-$ npm install --save rework-import
+$ npm install --save rework-import-safe
 ```
 
 
